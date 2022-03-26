@@ -1,0 +1,30 @@
+.todo-list {
+    width: 500px;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+input[type="radio"] {
+    margin-right: 24px;
+    cursor: pointer;
+}
+
+input[type="text"] {
+    width: 100%;
+    font-size: 30px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    padding: 4px 8px;
+}
+
+span {
+    color: #848181;
+    font-size: 20px;
+}
