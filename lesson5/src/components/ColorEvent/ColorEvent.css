@@ -1,0 +1,14 @@
+.color-event {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid;
+    margin: 0 12px;
+}
+
+.button-block {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
